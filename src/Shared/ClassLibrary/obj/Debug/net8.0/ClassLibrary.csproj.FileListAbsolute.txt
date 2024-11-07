@@ -1,0 +1,12 @@
+c:\Users\diabl\Documents\GitHub\Programowanie-Projekt\src\Shared\ClassLibrary\bin\Debug\net8.0\ClassLibrary.deps.json
+c:\Users\diabl\Documents\GitHub\Programowanie-Projekt\src\Shared\ClassLibrary\bin\Debug\net8.0\ClassLibrary.dll
+c:\Users\diabl\Documents\GitHub\Programowanie-Projekt\src\Shared\ClassLibrary\bin\Debug\net8.0\ClassLibrary.pdb
+c:\Users\diabl\Documents\GitHub\Programowanie-Projekt\src\Shared\ClassLibrary\obj\Debug\net8.0\ClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\diabl\Documents\GitHub\Programowanie-Projekt\src\Shared\ClassLibrary\obj\Debug\net8.0\ClassLibrary.AssemblyInfoInputs.cache
+c:\Users\diabl\Documents\GitHub\Programowanie-Projekt\src\Shared\ClassLibrary\obj\Debug\net8.0\ClassLibrary.AssemblyInfo.cs
+c:\Users\diabl\Documents\GitHub\Programowanie-Projekt\src\Shared\ClassLibrary\obj\Debug\net8.0\ClassLibrary.csproj.CoreCompileInputs.cache
+c:\Users\diabl\Documents\GitHub\Programowanie-Projekt\src\Shared\ClassLibrary\obj\Debug\net8.0\ClassLibrary.sourcelink.json
+c:\Users\diabl\Documents\GitHub\Programowanie-Projekt\src\Shared\ClassLibrary\obj\Debug\net8.0\ClassLibrary.dll
+c:\Users\diabl\Documents\GitHub\Programowanie-Projekt\src\Shared\ClassLibrary\obj\Debug\net8.0\refint\ClassLibrary.dll
+c:\Users\diabl\Documents\GitHub\Programowanie-Projekt\src\Shared\ClassLibrary\obj\Debug\net8.0\ClassLibrary.pdb
+c:\Users\diabl\Documents\GitHub\Programowanie-Projekt\src\Shared\ClassLibrary\obj\Debug\net8.0\ref\ClassLibrary.dll

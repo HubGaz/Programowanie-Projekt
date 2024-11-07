@@ -1,16 +1,16 @@
 namespace UrMag{
 
-    class items{
+    class Item{
        
         public int ID{get; set;}
         public string Name{get; set;}
         public double Price{get; set;}
         public int Quantity{get; set;}
 
-        public item(int id, string name) : this(id, name, 0, 1){
+        public Item(int ID, string Name) : this(ID, Name, 0, 1){
 
         }
-        public Item(int id, string name, double price) : this(name, price, 1){   
+        public Item(int ID, string Name, double price) : this(Name, price, 1){   
 
         }
         public Item(int id, string name, double price, int quantity){
